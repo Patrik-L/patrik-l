@@ -18,7 +18,7 @@ jobs:
           # Options
           user: patrik-l
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Europe/Helsinki
           plugin_achievements: yes
           plugin_achievements_display: detailed
